@@ -6,8 +6,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0A192F,100:00D9FF&height=200&section=header&text=Hello,%20Developer!&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=55&descSize=16" width="100%" alt="Profile Header" />
-
   <h1>Halo, Saya Andika Fajar Zuliyanto 👋</h1>
 
   <p>
