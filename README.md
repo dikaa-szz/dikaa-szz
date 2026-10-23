@@ -179,20 +179,6 @@ Aplikasi web mobile untuk mendukung penjualan dam pemasaran mobil pada showroom
 
 ---
 
-## 📈 Aktivitas Kontribusi
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&bg_color=050816&color=E6F1FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-
-</div>
-
----
-
 ## 🤝 Mari Terhubung
 
 Saya terbuka untuk berdiskusi mengenai pengembangan aplikasi,
