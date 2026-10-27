@@ -36,7 +36,6 @@
 - 🎯 Berkomitmen menghasilkan kode yang terstruktur, mudah dipelihara, dan bermanfaat.
 
 ---
-
 ## 🛠️ Teknologi
 
 ### Backend Development
