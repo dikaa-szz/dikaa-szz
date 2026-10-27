@@ -72,6 +72,17 @@
 
 ---
 
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,mysql,firebase,flutter,git,github,vscode&theme=dark&perline=7" alt="Tech Stack" />
+
+</div>
+
+---
+
+
 ## 🚀 Proyek Unggulan
 
 ### 01. Sistem Pengaduan dan Monitoring Perbaikan Fasilitas Umum
