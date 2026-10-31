@@ -113,7 +113,6 @@ Website untuk mendukung pemasaran mobil dan penyajian informasi kendaraan pada s
 ---
 
 ## 🤝 Mari Terhubung
-
 Saya terbuka untuk berdiskusi mengenai pengembangan aplikasi,
 kolaborasi proyek, dan kesempatan profesional di bidang teknologi.
 
