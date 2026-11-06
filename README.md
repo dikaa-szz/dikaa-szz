@@ -33,7 +33,6 @@
 - 🗄️ Mengelola basis data menggunakan MySQL dan Firebase.
 - 📱 Mengembangkan aplikasi mobile menggunakan Flutter.
 - 🧩 Senang mempelajari teknologi baru dan menyelesaikan masalah melalui pemrograman.
-- 🎯 Berkomitmen menghasilkan kode yang terstruktur, mudah dipelihara, dan bermanfaat.
 
 ---
 
